@@ -1,6 +1,6 @@
 # Day 01: What is Machine Learning?
 
-## 1. What this series covers
+## 1. What this series covers?
 
 One video every day for 100 days, going from the basics to the full flow of a machine learning project.
 
