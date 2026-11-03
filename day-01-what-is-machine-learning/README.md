@@ -66,7 +66,7 @@ The good part: you don't have to write code for every case. The algorithm handle
 
 That's the key difference, and the reason ML is so powerful in industry.
 
-*Note: in practice, a normal trained model expects a fixed number of inputs, so the "any number of numbers" part is more of an intuition than something a basic model does out of the box. The core idea, that the model learns the rule from examples, still holds.*
+*Note: In practice, a normal trained model expects a fixed number of inputs, so the "any number of numbers" part is more of an intuition than something a basic model does out of the box. The core idea, that the model learns the rule from examples, still holds.*
 
 ---
 
