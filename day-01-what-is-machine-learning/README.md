@@ -4,7 +4,7 @@
 
 One video every day for 100 days, going from the basics to the full flow of a machine learning project.
 
-**What it is not:** an algorithms playlist. Algorithms already have their own playlists on the channel.
+**What it's not:** an algorithms playlist. Algorithms already have their own playlists on the channel.
 
 **What it is:** everything around the algorithms.
 
