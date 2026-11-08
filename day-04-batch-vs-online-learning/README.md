@@ -1,6 +1,6 @@
 # Day 04: Batch vs Online Learning
 
-## 1. What this video is about
+## 1. What this video is about?
 
 In the last video, ML was classified based on the **amount of supervision** (supervised, unsupervised, semi-supervised, reinforcement). Today is the same topic, types of ML, but on a **completely different basis**: **how the ML model is trained.**
 
