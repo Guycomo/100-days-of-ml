@@ -1,6 +1,6 @@
 # Day 05: Online Learning
 
-## 1. Where this fits
+## 1. Where this fits?
 
 ML was first classified by the amount of supervision (supervised, unsupervised, semi-supervised, reinforcement). Then the discussion moved to a second basis: **how an ML model behaves in production.** That gives two categories:
 
